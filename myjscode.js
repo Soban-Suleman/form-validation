@@ -61,7 +61,7 @@ $(document).ready(function () {
     },
     messages: {
       name: {
-        minlength: "Name should be at least 3 characters",
+        minlength: "Name should be at least 5 characters",
       },
       password: {
         minlength: "Password should be atleast 8 characters and secure",
